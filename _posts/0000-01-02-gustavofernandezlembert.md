@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+```{r} 
+print("hello world")
+```
 Use the left arrow to go back!
