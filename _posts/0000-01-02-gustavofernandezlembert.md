@@ -2,7 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
+# Install Packages
 ```{r} 
-print("hello world")
+install.packages("COUNT")
 ```
 Use the left arrow to go back!
